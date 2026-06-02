@@ -1,0 +1,19 @@
+def calculate_rummy_score(cards):
+    score = 0
+
+    for card in cards:
+        rank = card[:-1]
+
+        if rank in ["J", "Q", "K", "A"]:
+            score += 10
+        elif rank == "JOKER":
+            score += 0
+        else:
+            score += int(rank)
+
+    return score
+
+
+cards = ["A♠", "7♥", "Q♦", "5♣"]
+
+print(calculate_rummy_score(cards))
