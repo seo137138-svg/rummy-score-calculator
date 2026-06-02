@@ -1,6 +1,6 @@
 # Rummy Hand Analysis Toolkit
 
-An open-source Python toolkit for analyzing Indian Rummy hands, calculating scores, evaluating potential sequences and sets, and estimating bonus wagering requirements.
+An open-source Python toolkit for analyzing Indian Rummy hands[all rummy apps](https://rummyandroid.com/), calculating scores, evaluating potential sequences and sets, and estimating bonus wagering requirements.
 
 ---
 
@@ -16,9 +16,9 @@ An open-source Python toolkit for analyzing Indian Rummy hands, calculating scor
 ## Quick Start
 
 ```python
-from score_calculator import ScoreCalculator
-from hand_analyzer import RummyHandAnalyzer
-from bonus_calculator import calculate_bonus_requirement
+from src.score_calculator import ScoreCalculator
+from src.hand_analyzer import RummyHandAnalyzer
+from src.bonus_calculator import calculate_bonus_requirement
 
 hand = ['7H','8H','9H','KS','KD','KC']
 analyzer = RummyHandAnalyzer(hand)
