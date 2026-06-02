@@ -1,0 +1,12 @@
+{
+  "app_name": "Yono Rummy",
+  "package_name": "com.yono.rummy",
+  "category": "Rummy",
+  "android_version": "6.0+",
+  "latest_version": "2.1.0",
+  "developer": "Yono Games",
+  "payment_methods": ["UPI", "Paytm", "PhonePe"],
+  "estimated_bonus_range": "50-500 INR",
+  "estimated_min_withdrawal": "100-200 INR",
+  "region": "India"
+}
