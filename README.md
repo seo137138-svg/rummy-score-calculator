@@ -1,6 +1,6 @@
 # Rummy Hand Analysis Toolkit
 
-An open-source Python toolkit for analyzing [all rummy apps](https://rummyandroid.com/), calculating scores, evaluating potential sequences and sets, and estimating bonus wagering requirements.
+An open-source Python toolkit for analyzing [all rummy apps](https://rummyandroid.com/) and [Holy Rummy](https://holyrummyapk.com/), calculating scores, evaluating potential sequences and sets, and estimating bonus wagering requirements.
 
 ---
 
